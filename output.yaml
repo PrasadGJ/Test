@@ -1,0 +1,22 @@
+- - - Field
+    - Value
+  - - CR_ID
+    - WV000061-UPDATE-AK-SplitMoneyRequest
+  - - DOMAIN
+    - default
+  - - TARGET_PATH
+    - store/URL_ALIASES.xml
+  - - MODE
+    - Append End
+  - - XPATH
+    - dm:DATA_MAPPING/dm:MAPPING
+  - - DELTA_PATH
+    - 0164_WLTPRD000173-ALL-DPProd-20-10-2025/WV000061-UPDATE-AK-SplitMoneyRequest/store/URL_ALIASES.xml
+- - - Field
+    - Value
+  - - CR_ID
+    - WV000061-UPDATE-AK-SplitMoneyRequest
+  - - DOMAIN
+    - DWP-CONSUMER-API-GW
+  - - ZIP_FILE_PATH
+    - Deployment/Deployment Packages/0164_WLTPRD000173-ALL-DPProd-20-10-2025/WV000061-UPDATE-AK-SplitMoneyRequest/Artifacts/DWP-CONSUMER-API-GW.zip
